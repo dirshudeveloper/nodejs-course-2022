@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-course-2022",
+  "version": "1.0.0",
+  "description": "Nodejs Course",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/dirshudeveloper/nodejs-course-2022.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dirshudeveloper/nodejs-course-2022/issues"
+  },
+  "homepage": "https://github.com/dirshudeveloper/nodejs-course-2022#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
